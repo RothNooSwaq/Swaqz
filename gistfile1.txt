@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Swaqz.com</title>
+      <meta http-equiv = "refresh" content = "1; url = https://youtu.be/dQw4w9WgXcQ" />
+   </head>
+   <body>
+      <p>Hello :D</p>
+      <p2>This If My First Time Code a Website </p2>
+      <p2>Im So Excited For Real </p2>
+   </body>
+</html>
